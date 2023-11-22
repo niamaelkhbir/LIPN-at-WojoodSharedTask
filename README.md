@@ -1,3 +1,3 @@
 # LIPN-at-WojoodSharedTask
 
-In progress ...
+The code is available here: https://github.com/urchade/Filtered-Semi-Markov-CRF 
